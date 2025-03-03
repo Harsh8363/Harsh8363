@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh8363" alt="harsh8363" /></a> </p>
 
-- 🌱 I’m currently learning **C#, GoLang**
+- 🌱 I’m currently learning **C#, Python**
 
-- 💬 Ask me about **C/C++, Reactjs, Nodejs, Python**
+- 💬 Ask me about **C/C++, Reactjs, Nodejs**
 
 - 📫 How to reach me **harshverma.vvip@gmail.com**
 
